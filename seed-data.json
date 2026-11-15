@@ -1,0 +1,736 @@
+{
+  "storeName": "T29A / AHMAD YANI LAMPUNG",
+  "currency": "IDR",
+  "months": [
+    {
+      "month": "2026-03",
+      "targetSPD": 9610728.0,
+      "daily": [
+        {
+          "date": "2026-03-01",
+          "sales": 9113073.0,
+          "receipts": 264
+        },
+        {
+          "date": "2026-03-02",
+          "sales": 6638357.0,
+          "receipts": 262
+        },
+        {
+          "date": "2026-03-03",
+          "sales": 8895426.0,
+          "receipts": 255
+        },
+        {
+          "date": "2026-03-04",
+          "sales": 8075903.0,
+          "receipts": 245
+        },
+        {
+          "date": "2026-03-05",
+          "sales": 8195939.0,
+          "receipts": 262
+        },
+        {
+          "date": "2026-03-06",
+          "sales": 8726213.0,
+          "receipts": 254
+        },
+        {
+          "date": "2026-03-07",
+          "sales": 15554609.0,
+          "receipts": 320
+        },
+        {
+          "date": "2026-03-08",
+          "sales": 10928952.0,
+          "receipts": 304
+        },
+        {
+          "date": "2026-03-09",
+          "sales": 11422880.0,
+          "receipts": 287
+        },
+        {
+          "date": "2026-03-10",
+          "sales": 9350475.0,
+          "receipts": 286
+        },
+        {
+          "date": "2026-03-11",
+          "sales": 11292363.0,
+          "receipts": 294
+        },
+        {
+          "date": "2026-03-12",
+          "sales": 10544976.0,
+          "receipts": 297
+        },
+        {
+          "date": "2026-03-13",
+          "sales": 14036474.0,
+          "receipts": 307
+        },
+        {
+          "date": "2026-03-14",
+          "sales": 11321317.0,
+          "receipts": 327
+        },
+        {
+          "date": "2026-03-15",
+          "sales": 13933068.0,
+          "receipts": 325
+        },
+        {
+          "date": "2026-03-16",
+          "sales": 8124803.0,
+          "receipts": 257
+        },
+        {
+          "date": "2026-03-17",
+          "sales": 10078400.0,
+          "receipts": 298
+        },
+        {
+          "date": "2026-03-18",
+          "sales": 12745698.0,
+          "receipts": 313
+        },
+        {
+          "date": "2026-03-19",
+          "sales": 11053799.0,
+          "receipts": 333
+        },
+        {
+          "date": "2026-03-20",
+          "sales": 14044856.0,
+          "receipts": 383
+        },
+        {
+          "date": "2026-03-21",
+          "sales": 14389090.0,
+          "receipts": 405
+        },
+        {
+          "date": "2026-03-22",
+          "sales": 14837918.0,
+          "receipts": 435
+        },
+        {
+          "date": "2026-03-23",
+          "sales": 13743419.0,
+          "receipts": 367
+        },
+        {
+          "date": "2026-03-24",
+          "sales": 17627048.0,
+          "receipts": 429
+        },
+        {
+          "date": "2026-03-25",
+          "sales": 9595961.0,
+          "receipts": 310
+        },
+        {
+          "date": "2026-03-26",
+          "sales": 12434305.0,
+          "receipts": 345
+        },
+        {
+          "date": "2026-03-27",
+          "sales": 11828280.0,
+          "receipts": 353
+        },
+        {
+          "date": "2026-03-28",
+          "sales": 13765855.0,
+          "receipts": 396
+        },
+        {
+          "date": "2026-03-29",
+          "sales": 10760111.0,
+          "receipts": 372
+        },
+        {
+          "date": "2026-03-30",
+          "sales": 10948830.0,
+          "receipts": 356
+        },
+        {
+          "date": "2026-03-31",
+          "sales": 10659409.0,
+          "receipts": 271
+        }
+      ],
+      "previousMonthComparisons": [
+        {
+          "day": 1,
+          "sales": 9032117.0,
+          "receipts": 255
+        },
+        {
+          "day": 2,
+          "sales": 9703051.0,
+          "receipts": 253
+        },
+        {
+          "day": 3,
+          "sales": 9202298.0,
+          "receipts": 255
+        },
+        {
+          "day": 4,
+          "sales": 8683127.0,
+          "receipts": 254
+        },
+        {
+          "day": 5,
+          "sales": 8488567.0,
+          "receipts": 249
+        },
+        {
+          "day": 6,
+          "sales": 9620968.0,
+          "receipts": 250
+        },
+        {
+          "day": 7,
+          "sales": 9202803.0,
+          "receipts": 258
+        },
+        {
+          "day": 8,
+          "sales": 9153183.0,
+          "receipts": 253
+        },
+        {
+          "day": 9,
+          "sales": 8830316.0,
+          "receipts": 254
+        },
+        {
+          "day": 10,
+          "sales": 8674646.0,
+          "receipts": 251
+        },
+        {
+          "day": 11,
+          "sales": 8536298.0,
+          "receipts": 251
+        },
+        {
+          "day": 12,
+          "sales": 8574789.0,
+          "receipts": 252
+        },
+        {
+          "day": 13,
+          "sales": 8613693.0,
+          "receipts": 255
+        },
+        {
+          "day": 14,
+          "sales": 9059831.0,
+          "receipts": 259
+        },
+        {
+          "day": 15,
+          "sales": 9087204.0,
+          "receipts": 261
+        },
+        {
+          "day": 16,
+          "sales": 9113652.0,
+          "receipts": 263
+        },
+        {
+          "day": 17,
+          "sales": 9186829.0,
+          "receipts": 261
+        },
+        {
+          "day": 18,
+          "sales": 9324539.0,
+          "receipts": 259
+        },
+        {
+          "day": 19,
+          "sales": 9326564.0,
+          "receipts": 257
+        },
+        {
+          "day": 20,
+          "sales": 9222716.0,
+          "receipts": 255
+        },
+        {
+          "day": 21,
+          "sales": 9367609.0,
+          "receipts": 254
+        },
+        {
+          "day": 22,
+          "sales": 9212569.0,
+          "receipts": 250
+        },
+        {
+          "day": 23,
+          "sales": 9087152.0,
+          "receipts": 247
+        },
+        {
+          "day": 24,
+          "sales": 9122284.0,
+          "receipts": 247
+        },
+        {
+          "day": 25,
+          "sales": 9008127.0,
+          "receipts": 246
+        },
+        {
+          "day": 26,
+          "sales": 8979508.0,
+          "receipts": 245
+        },
+        {
+          "day": 27,
+          "sales": 9262958.0,
+          "receipts": 246
+        },
+        {
+          "day": 28,
+          "sales": 9259501.0,
+          "receipts": 247
+        },
+        {
+          "day": 29,
+          "sales": 9259501.0,
+          "receipts": 247
+        },
+        {
+          "day": 30,
+          "sales": 9259501.0,
+          "receipts": 247
+        },
+        {
+          "day": 31,
+          "sales": 9259501.0,
+          "receipts": 247
+        }
+      ]
+    },
+    {
+      "month": "2026-04",
+      "targetSPD": 8727496.0,
+      "daily": [
+        {
+          "date": "2026-04-01",
+          "sales": 9158363.0,
+          "receipts": 300
+        },
+        {
+          "date": "2026-04-02",
+          "sales": 8764364.0,
+          "receipts": 282
+        },
+        {
+          "date": "2026-04-03",
+          "sales": 11896864.0,
+          "receipts": 305
+        },
+        {
+          "date": "2026-04-04",
+          "sales": 11515004.0,
+          "receipts": 358
+        },
+        {
+          "date": "2026-04-05",
+          "sales": 9135559.0,
+          "receipts": 274
+        },
+        {
+          "date": "2026-04-06",
+          "sales": 8326311.0,
+          "receipts": 269
+        },
+        {
+          "date": "2026-04-07",
+          "sales": 7536525.0,
+          "receipts": 267
+        },
+        {
+          "date": "2026-04-08",
+          "sales": 6358089.0,
+          "receipts": 215
+        },
+        {
+          "date": "2026-04-09",
+          "sales": 7405498.0,
+          "receipts": 259
+        },
+        {
+          "date": "2026-04-10",
+          "sales": 8189659.0,
+          "receipts": 293
+        },
+        {
+          "date": "2026-04-11",
+          "sales": 11608035.0,
+          "receipts": 366
+        },
+        {
+          "date": "2026-04-12",
+          "sales": 9931588.0,
+          "receipts": 275
+        },
+        {
+          "date": "2026-04-13",
+          "sales": 9070813.0,
+          "receipts": 276
+        },
+        {
+          "date": "2026-04-14",
+          "sales": 6938747.0,
+          "receipts": 249
+        },
+        {
+          "date": "2026-04-15",
+          "sales": 8680733.0,
+          "receipts": 292
+        },
+        {
+          "date": "2026-04-16",
+          "sales": 6730387.0,
+          "receipts": 222
+        },
+        {
+          "date": "2026-04-17",
+          "sales": 9904908.0,
+          "receipts": 289
+        },
+        {
+          "date": "2026-04-18",
+          "sales": 10987442.0,
+          "receipts": 290
+        },
+        {
+          "date": "2026-04-19",
+          "sales": 7206884.0,
+          "receipts": 250
+        },
+        {
+          "date": "2026-04-20",
+          "sales": 7018172.0,
+          "receipts": 288
+        },
+        {
+          "date": "2026-04-21",
+          "sales": 9723973.0,
+          "receipts": 242
+        },
+        {
+          "date": "2026-04-22",
+          "sales": 8783971.0,
+          "receipts": 285
+        },
+        {
+          "date": "2026-04-23",
+          "sales": 6785853.0,
+          "receipts": 255
+        },
+        {
+          "date": "2026-04-24",
+          "sales": 6737303.0,
+          "receipts": 259
+        },
+        {
+          "date": "2026-04-25",
+          "sales": 9473210.0,
+          "receipts": 292
+        },
+        {
+          "date": "2026-04-26",
+          "sales": 8584783.0,
+          "receipts": 258
+        },
+        {
+          "date": "2026-04-27",
+          "sales": 7838080.0,
+          "receipts": 265
+        },
+        {
+          "date": "2026-04-28",
+          "sales": 7663248.0,
+          "receipts": 247
+        },
+        {
+          "date": "2026-04-29",
+          "sales": 8350738.0,
+          "receipts": 271
+        },
+        {
+          "date": "2026-04-30",
+          "sales": 10552218.0,
+          "receipts": 307
+        }
+      ],
+      "previousMonthComparisons": [
+        {
+          "day": 1,
+          "sales": 9113073.0,
+          "receipts": 264
+        },
+        {
+          "day": 2,
+          "sales": 7875715.0,
+          "receipts": 263
+        },
+        {
+          "day": 3,
+          "sales": 8211865.0,
+          "receipts": 260
+        },
+        {
+          "day": 4,
+          "sales": 8177844.0,
+          "receipts": 256
+        },
+        {
+          "day": 5,
+          "sales": 8181487.0,
+          "receipts": 258
+        },
+        {
+          "day": 6,
+          "sales": 8272275.0,
+          "receipts": 257
+        },
+        {
+          "day": 7,
+          "sales": 9312608.0,
+          "receipts": 266
+        },
+        {
+          "day": 8,
+          "sales": 9514651.0,
+          "receipts": 271
+        },
+        {
+          "day": 9,
+          "sales": 9726676.0,
+          "receipts": 272
+        },
+        {
+          "day": 10,
+          "sales": 9689056.0,
+          "receipts": 273
+        },
+        {
+          "day": 11,
+          "sales": 9815852.0,
+          "receipts": 276
+        },
+        {
+          "day": 12,
+          "sales": 9876612.0,
+          "receipts": 277
+        },
+        {
+          "day": 13,
+          "sales": 10196601.0,
+          "receipts": 279
+        },
+        {
+          "day": 14,
+          "sales": 10269795.0,
+          "receipts": 283
+        },
+        {
+          "day": 15,
+          "sales": 10514013.0,
+          "receipts": 285
+        },
+        {
+          "day": 16,
+          "sales": 10370938.0,
+          "receipts": 284
+        },
+        {
+          "day": 17,
+          "sales": 10351981.0,
+          "receipts": 285
+        },
+        {
+          "day": 18,
+          "sales": 10484962.0,
+          "receipts": 286
+        },
+        {
+          "day": 19,
+          "sales": 10514356.0,
+          "receipts": 289
+        },
+        {
+          "day": 20,
+          "sales": 10690881.0,
+          "receipts": 293
+        },
+        {
+          "day": 21,
+          "sales": 10866986.0,
+          "receipts": 298
+        },
+        {
+          "day": 22,
+          "sales": 11042774.0,
+          "receipts": 305
+        },
+        {
+          "day": 23,
+          "sales": 11160193.0,
+          "receipts": 307
+        },
+        {
+          "day": 24,
+          "sales": 11429646.0,
+          "receipts": 313
+        },
+        {
+          "day": 25,
+          "sales": 11356295.0,
+          "receipts": 312
+        },
+        {
+          "day": 26,
+          "sales": 11397757.0,
+          "receipts": 313
+        },
+        {
+          "day": 27,
+          "sales": 11413705.0,
+          "receipts": 315
+        },
+        {
+          "day": 28,
+          "sales": 11497710.0,
+          "receipts": 318
+        },
+        {
+          "day": 29,
+          "sales": 11472276.0,
+          "receipts": 320
+        },
+        {
+          "day": 30,
+          "sales": 11454482.0,
+          "receipts": 321
+        }
+      ]
+    },
+    {
+      "month": "2026-05",
+      "targetSPD": 8993424.0,
+      "daily": [
+        {
+          "date": "2026-05-01",
+          "sales": 10089968.0,
+          "receipts": 327
+        },
+        {
+          "date": "2026-05-02",
+          "sales": 10504146.0,
+          "receipts": 320
+        },
+        {
+          "date": "2026-05-03",
+          "sales": 7176648.0,
+          "receipts": 264
+        },
+        {
+          "date": "2026-05-04",
+          "sales": 7813236.0,
+          "receipts": 252
+        },
+        {
+          "date": "2026-05-05",
+          "sales": 10133126.0,
+          "receipts": 266
+        },
+        {
+          "date": "2026-05-06",
+          "sales": 8532422.0,
+          "receipts": 248
+        },
+        {
+          "date": "2026-05-07",
+          "sales": 8721182.0,
+          "receipts": 256
+        },
+        {
+          "date": "2026-05-08",
+          "sales": 11272492.0,
+          "receipts": 318
+        },
+        {
+          "date": "2026-05-09",
+          "sales": 8356428.0,
+          "receipts": 301
+        }
+      ],
+      "previousMonthComparisons": [
+        {
+          "day": 1,
+          "sales": 9158363.0,
+          "receipts": 300
+        },
+        {
+          "day": 2,
+          "sales": 8961363.5,
+          "receipts": 291
+        },
+        {
+          "day": 3,
+          "sales": 9939863.667,
+          "receipts": 295
+        },
+        {
+          "day": 4,
+          "sales": 10333648.75,
+          "receipts": 311
+        },
+        {
+          "day": 5,
+          "sales": 10094030.8,
+          "receipts": 303
+        },
+        {
+          "day": 6,
+          "sales": 9799410.833,
+          "receipts": 298
+        },
+        {
+          "day": 7,
+          "sales": 9476141.429,
+          "receipts": 293
+        },
+        {
+          "day": 8,
+          "sales": 9086384.875,
+          "receipts": 283
+        },
+        {
+          "day": 9,
+          "sales": 8899619.667,
+          "receipts": 281
+        }
+      ]
+    },
+    {
+      "month": "2026-06",
+      "targetSPD": 0.0,
+      "daily": [],
+      "previousMonthComparisons": []
+    }
+  ]
+}
