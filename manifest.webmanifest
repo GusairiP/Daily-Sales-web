@@ -1,1 +1,1 @@
-{"name": "T29A Sales Dashboard", "short_name": "T29A Sales", "start_url": "/", "display": "standalone", "background_color": "#f5f7fb", "theme_color": "#101827", "icons": []}
+{"name": "Performance Sales Dashboard", "short_name": "Sales Dashboard", "start_url": "./", "display": "standalone", "background_color": "#f5f7fb", "theme_color": "#101827", "icons": []}
